@@ -1,0 +1,3 @@
+richard   98
+liu       97
+xiaoming  90
